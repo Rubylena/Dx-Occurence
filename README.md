@@ -11,6 +11,8 @@
 **git remote add origin https://github.com/franeldev/zero-hunger-fe-pjt-108.git**
 
 4. Create a new branch in your forked repository where all your work will be done. You should use your name.
+**git branch grace**
+switch to that branch before you start working
 **git checkout grace**
 
 5. After making all the updates to your branch remotely, you need to upload.
@@ -18,7 +20,7 @@
 **git commit -m 'your commit message'**
 
 5. whenever you open the folder that will be created always try to refresh the folder incase of any new updates but you start working 
-**git pull -u develop** this is getting updates from the repo you cloned from
+**git pull -u workStation** this is getting updates from the repo you cloned from
 
 **git push origin grace** i am pushing my recent updates to my forked repo.
 
